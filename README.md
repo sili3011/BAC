@@ -1,4 +1,4 @@
-## Bachelor thesis: Raspberry-controlled sensors for smart user trial environments (2016)
+## 📖 Bachelor thesis: Raspberry-controlled sensors for smart user trial environments (2016)
 
 Humans can easily be distracted by environmental conditions like temperature or brightness. Therefore user testing can be influenced by different room conditions. A former project focused on designing and implementing a user testing platform will therefore be extended by a display of the current room conditions in order to make stable user testing easier.  
   
